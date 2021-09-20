@@ -1,0 +1,12 @@
+lcd.c:28:6:lcdInit	16	static
+lcd.c:33:9:lcdGetID	24	static
+lcd.c:41:9:lcdGetFirmwareVersion	24	static
+lcd.c:49:6:lcdUartEnable	32	static
+lcd.c:56:6:lcdPinMode	32	static
+lcd.c:64:6:lcdDigitalWrite	32	static
+lcd.c:72:9:lcdDigitalRead	32	static
+lcd.c:82:9:lcdReadButtons	24	static
+lcd.c:90:6:lcdSetBacklight	32	static
+lcd.c:97:6:lcdClear	24	static
+lcd.c:104:6:lcdSetCursor	16	static
+lcd.c:116:6:lcdPrint	40	static
